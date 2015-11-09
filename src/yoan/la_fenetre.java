@@ -30,6 +30,7 @@ JButton btn9;
 JPanel panel;
 	
 	public la_fenetre() {
+		//initialisation fenetre
 		initialize();	
 		
 	}
